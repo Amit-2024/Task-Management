@@ -2,6 +2,8 @@
 
 The Task Management App is a simple and efficient tool designed to help users manage their tasks effectively. The app allows users to add, edit, and delete tasks, ensuring they stay organized and on top of their to-do list. The user interface is built with React and styled using Tailwind CSS, providing a responsive and visually appealing experience.
 
+Live Deployment - https://task-management0.onrender.com/
+
 ## Features
 
 - Add new tasks with title, description, and due date.
@@ -38,4 +40,6 @@ To run this project locally, follow these steps:
    
    bash
    npm run server
-   
+
+
+
