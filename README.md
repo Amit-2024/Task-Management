@@ -22,7 +22,6 @@ To run this project locally, follow these steps:
 
    cd Task-Management
    
-   cd Todo-fullStack
    
 
 3. *Install dependencies:*
